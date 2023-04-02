@@ -13,7 +13,7 @@ function Get-DocumentProperties {
     $output = @()
 
     # Loop through each document and extract all available properties
-    foreach ($document in $documents) {
+    foreach ($document in $wordFiles) {
         $word = New-Object -ComObject Word.Application
         $doc = $word.Documents.Open($document.FullName)
 
