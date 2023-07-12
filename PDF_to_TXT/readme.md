@@ -1,0 +1,1 @@
+1. Unzip pdf2text.zip to your drive. Somewhere like C:\pdf2text
