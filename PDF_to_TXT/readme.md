@@ -1,1 +1,1 @@
-1. Unzip pdf2text.zip to your drive. Somewhere like C:\pdf2text
+1. Download pdftotext.exe to your drive. Somewhere like C:\pdftotext.
